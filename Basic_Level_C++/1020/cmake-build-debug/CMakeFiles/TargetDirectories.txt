@@ -1,0 +1,3 @@
+E:/WorkSpace/C++/PAT/Basic_Level_C++/1020/cmake-build-debug/CMakeFiles/1020.dir
+E:/WorkSpace/C++/PAT/Basic_Level_C++/1020/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/WorkSpace/C++/PAT/Basic_Level_C++/1020/cmake-build-debug/CMakeFiles/rebuild_cache.dir
