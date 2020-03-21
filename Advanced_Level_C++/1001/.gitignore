@@ -7,5 +7,7 @@
 *.iml
 out
 gen
-cmake-build-debug
 CMakeLists.txt
+cmake-build-debug
+.gitignore
+.idea/
