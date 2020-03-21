@@ -13,8 +13,8 @@ int main() {
     cin >> n;
 
     for (int i = 0; i < n; ++i) {
-       cin >> s;
-       map<char, int> m;
+        cin >> s;
+        map<char, int> m;
 
         for (int j = 0; j < s.size(); ++j) {
             m[s[j]] ++;
