@@ -14,6 +14,7 @@ int main() {
         cout << s[i];
         if (s[i] == '-') continue;
         //  从后面开始每三位一组  len % 3 = x 每次从 x 下标位置开始分割
+	//
         if ((i + 1) % 3 == len % 3 && i != len - 1) cout << ",";
     }
     return 0;
